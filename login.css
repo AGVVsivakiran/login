@@ -1,0 +1,9 @@
+/* width view */
+.vw-50{
+    width: 50vw!important;
+}
+/* welcome col colour */
+.bg-full{
+    padding: 80px 1px;
+    overflow: hidden !important;
+}
